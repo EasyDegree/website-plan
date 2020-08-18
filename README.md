@@ -24,4 +24,4 @@
 1. Set up API for the frontend.
 
 2. Tools
-  - Django
+      - Django
